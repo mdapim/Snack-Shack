@@ -1,7 +1,6 @@
 
 import datetime
 
-
 snacks_available = [{"item": 'Sandwich','prep':  60,'serve': 30, 'amount': 45},
                     {"item": 'Potato', 'prep': 150,'top': 30,'serve': 30 }]
 
